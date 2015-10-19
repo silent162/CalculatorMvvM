@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Droid\Test.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.AVD_GalaxyNexus_ToolsForApacheCordova" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test\Views\MainPage.xaml.cs">
+    <Files>
+      <File FileName="Test\Test.cs" Line="16" Column="1" />
+      <File FileName="Test\Bootstrapper.cs" Line="12" Column="1" />
+      <File FileName="Test\Views\MainPage.xaml" Line="12" Column="1" />
+      <File FileName="Test\ViewModels\MainPageViewModel.cs" Line="28" Column="3" />
+      <File FileName="Droid\MainActivity.cs" Line="22" Column="27" />
+      <File FileName="Test\Views\MainPage.xaml.cs" Line="13" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Worker5\Documents\Projects\Test\Test\ViewModels\MainPageViewModel.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
